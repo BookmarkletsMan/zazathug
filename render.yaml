@@ -1,0 +1,6 @@
+
+services:
+  - type: web
+    name: zazathug
+    env: docker
+    plan: free
